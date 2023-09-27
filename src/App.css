@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.App{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+#drum-machine{
+    text-align: center;
+    margin-top: 10%;
+}
+.drum-pads{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.drum-pad{
+    border: 1px solid black;
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    place-items: center;
+    border-radius: 5px;
+}
