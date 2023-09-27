@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}.App{display:flex;justify-content:center;margin:auto}#drum-machine{margin-top:10%;text-align:center}.drum-pads{display:grid;grid-template-columns:1fr 1fr 1fr}.drum-pad{border:1px solid #000;border-radius:5px;display:flex;height:80px;justify-content:center;margin:5px;place-items:center;width:80px}
+/*# sourceMappingURL=main.e00c271b.css.map*/
